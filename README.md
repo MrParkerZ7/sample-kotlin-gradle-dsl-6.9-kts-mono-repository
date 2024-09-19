@@ -1,4 +1,4 @@
-###### gradle-dsl: https://docs.gradle.org/8.10.1/userguide/userguide.html
+###### gradle-dsl: https://docs.gradle.org/6.9/userguide/userguide.html
 
 ## Install & Refresh
 ```shell
