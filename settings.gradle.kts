@@ -1,4 +1,4 @@
-rootProject.name = "sample-kotlin-gradle-dsl-mono-repository"
+rootProject.name = "sample-kotlin-gradle-dsl-6.9-kts-mono-repository"
 
 include("dsl-api:api-sample")
 include("dsl-external:external-sample")
